@@ -1,0 +1,11 @@
+# Results and data folders
+results/
+test_3/
+
+wandb/
+ssd/
+
+.DS_Store
+__pycache__/
+*.pyc
+
