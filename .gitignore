@@ -4,8 +4,10 @@ test_3/
 
 wandb/
 ssd/
+src/
 
 .DS_Store
 __pycache__/
 *.pyc
+
 
